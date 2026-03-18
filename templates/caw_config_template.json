@@ -1,0 +1,1 @@
+{\n  "caw": {\n    "version": "1.0",\n    "settings": {\n      "option1": true,\n      "option2": "default_value"\n    },\n    "resources": {\n      "images": [],\n      "videos": []\n    }\n  }\n}
